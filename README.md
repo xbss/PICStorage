@@ -8,7 +8,7 @@
 rawgit.com/username/repository/master/demo.file
 
 例如链接一个已有的图片:
-[https://rawgit.com/xbss/Storage/master/吊炸天.jpg](https://rawgit.com/xbss/Storage/master/kobe-wa.gif)
+[https://rawgit.com/xbss/Storage/master/kobe-wa.gif](https://rawgit.com/xbss/Storage/master/kobe-wa.gif)
 
 ![diao](https://rawgit.com/xbss/Storage/master/kobe-wa.gif)
 
